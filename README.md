@@ -1,12 +1,12 @@
-## Personal portfolio version 2
+# Personal portfolio version 2
 
-# Background
+## Background
 
 This is a refresh of my personal portfolio website with a different approach, as I am not satsfied with the direction of my original one.
 
 My new approach to this portfolio website is to leverage open source assets and tools to create a more professional product, as opposed to trying to make everything from scratch in my original portfolio.
 
-# Tools
+## Tools
 
 HTML Template:
 Dimensions by @ajlkn
