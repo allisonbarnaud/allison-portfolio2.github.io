@@ -1334,7 +1334,8 @@ input, select, textarea {
 				letter-spacing: 0.2rem;
 				font-size: 0.8rem;
 				line-height: 2;
-				max-width: 200rem;
+				text-align:center;
+				max-width: 34rem;
 			}
 
 		#header nav ul {
