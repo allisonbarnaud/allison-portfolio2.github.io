@@ -1562,7 +1562,7 @@ input, select, textarea {
 				-webkit-transform: translateY(0);
 				-ms-transform: translateY(0);
 				transform: translateY(0);
-				opacity: 0.8;
+				opacity: 1;
 				border-radius: 10px;
 			}
 
